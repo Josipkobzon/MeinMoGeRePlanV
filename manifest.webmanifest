@@ -2,7 +2,7 @@
   "name": "Mein Plan Verteiler MoGeRe Gold",
   "short_name": "Verteiler",
   "description": "Wochenpläne pro Mitarbeiter verteilen (Koordination)",
-  "start_url": "./index.html?mode=verteiler",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "background_color": "#EEF1F5",
